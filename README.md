@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nishanee Williams
 
-<img src="https://raw.githubusercontent.com/NishWilliams/NishWilliams/main/avatar.png" alt="Avatar" width="150"/>
+<img src="https://raw.githubusercontent.com/NishWilliams/NishWilliams/main/images/avatar.png" alt="Avatar" width="150"/>
 
 **Data Analyst | Tableau, SQL, Python | Dashboards & Analysis**
 
