@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nishanee Williams
 
-![Avatar](link-to-your-avatar-image.png)
+<img src="https://raw.githubusercontent.com/NishWilliams/NishWilliams/main/avatar.png" alt="Avatar" width="150"/>
 
 **Data Analyst | Tableau, SQL, Python | Dashboards & Analysis**
 
@@ -30,7 +30,7 @@ Here are some of my key projects (click the links to explore):
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nishanee-w-9128081a7/)  
-- GitHub: [Your GitHub](https://github.com/your-username)
+- [GitHub](https://github.com/NishWilliams)
 
 ---
 
